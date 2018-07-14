@@ -31,6 +31,8 @@ ModelImporter:
     100050: "\u7368\u7ACB_\u539F\u72C0\u571F\u5C64"
     100052: "\u7368\u7ACB_\u5CA9\u76E4Slice"
     100054: "\u7368\u7ACB_\u5CA9\u76E4SlicePart"
+    100056: "\u7368\u7ACB_\u5CA9\u76E4Slice02"
+    100058: "\u7368\u7ACB_\u5CA9\u76E4SlicePart01"
     400000: "ALL_\u539F\u72C0\u571F\u5C64+\u5CA9\u76E4\u5C64"
     400002: "ALL_\u5CA9\u5C64"
     400004: "ALL_\u7C97\u8CEA\u6BBC\u5C64"
@@ -59,6 +61,8 @@ ModelImporter:
     400050: "\u7368\u7ACB_\u539F\u72C0\u571F\u5C64"
     400052: "\u7368\u7ACB_\u5CA9\u76E4Slice"
     400054: "\u7368\u7ACB_\u5CA9\u76E4SlicePart"
+    400056: "\u7368\u7ACB_\u5CA9\u76E4Slice02"
+    400058: "\u7368\u7ACB_\u5CA9\u76E4SlicePart01"
     2100000: ALL
     2100002: JJ
     2100004: No Name
@@ -96,6 +100,8 @@ ModelImporter:
     2300048: "\u7368\u7ACB_\u539F\u72C0\u571F\u5C64"
     2300050: "\u7368\u7ACB_\u5CA9\u76E4Slice"
     2300052: "\u7368\u7ACB_\u5CA9\u76E4SlicePart"
+    2300054: "\u7368\u7ACB_\u5CA9\u76E4Slice02"
+    2300056: "\u7368\u7ACB_\u5CA9\u76E4SlicePart01"
     3300000: "ALL_\u539F\u72C0\u571F\u5C64+\u5CA9\u76E4\u5C64"
     3300002: "ALL_\u5CA9\u5C64"
     3300004: "ALL_\u7C97\u8CEA\u6BBC\u5C64"
@@ -123,6 +129,8 @@ ModelImporter:
     3300048: "\u7368\u7ACB_\u539F\u72C0\u571F\u5C64"
     3300050: "\u7368\u7ACB_\u5CA9\u76E4Slice"
     3300052: "\u7368\u7ACB_\u5CA9\u76E4SlicePart"
+    3300054: "\u7368\u7ACB_\u5CA9\u76E4Slice02"
+    3300056: "\u7368\u7ACB_\u5CA9\u76E4SlicePart01"
     4300000: Plane001
     4300002: Box001
     4300004: Rectangle001
@@ -150,6 +158,8 @@ ModelImporter:
     4300048: "\u7368\u7ACB_\u539F\u72C0\u571F\u5C64"
     4300050: "\u7368\u7ACB_\u5CA9\u76E4Slice"
     4300052: "\u7368\u7ACB_\u5CA9\u76E4SlicePart"
+    4300054: "\u7368\u7ACB_\u5CA9\u76E4Slice02"
+    4300056: "\u7368\u7ACB_\u5CA9\u76E4SlicePart01"
   externalObjects: {}
   materials:
     importMaterials: 1
